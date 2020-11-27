@@ -1,0 +1,7 @@
+C:\Users\Kizaru-PC\source\repos\Task\Task\bin\Release\Task.exe.config
+C:\Users\Kizaru-PC\source\repos\Task\Task\bin\Release\Task.exe
+C:\Users\Kizaru-PC\source\repos\Task\Task\bin\Release\Task.pdb
+C:\Users\Kizaru-PC\source\repos\Task\Task\obj\Release\Task.csprojAssemblyReference.cache
+C:\Users\Kizaru-PC\source\repos\Task\Task\obj\Release\Task.csproj.CoreCompileInputs.cache
+C:\Users\Kizaru-PC\source\repos\Task\Task\obj\Release\Task.exe
+C:\Users\Kizaru-PC\source\repos\Task\Task\obj\Release\Task.pdb
